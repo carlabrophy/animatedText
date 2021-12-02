@@ -1,0 +1,14 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  font-size: 15rem;
+  margin: 20% auto 0;
+  text-align: center;
+}
+
+.letter {
+  font-family: "Roboto", sans-serif;
+  transition: color 500ms ease-in;
+}
